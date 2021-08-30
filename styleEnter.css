@@ -1,0 +1,12 @@
+body{
+    background: url(Other\ Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.MoreInfobox{
+    top: 5%;
+    left: 20%;
+    position: absolute;
+}
